@@ -1,0 +1,175 @@
+#contenedor{
+    width: 84.5em;
+    height: 50%;
+    background-color: rgb(59, 193, 242);
+   
+}
+#titulo{
+    width: 83.5em;
+    height: 6.5em;
+    background-color: white;
+    position:absolute;
+    font-size: 1em;
+    padding: -10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 5px 5px 2px  rgb(85, 81, 81);
+    border: 10px solid;
+}
+#empresa{
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    top: -45px;
+}
+
+#menu{
+    width: 13em;
+    height: 71.5em;
+    background-image: url("../images/fondo2.jpeg");
+    object-fit: fill;
+    border: 10px solid;
+}
+#imagenes{
+    width: 70em;
+    height: 64em;
+    background-color: white;
+    position: absolute;
+    top: 8em;
+    left: 14em;
+    border: 10px solid
+
+}
+#foto1{
+    width: 18em;
+    height: 200px; 
+    background-image: url("../images/ram1.jfif");
+    border: 5px solid rgb(79, 78, 78);
+}
+#foto2{
+    width: 18em;
+    height: 200px; 
+    background-image: url("../images/ram2.jfif"); 
+    position: relative;
+    top: 2em;
+    border: 5px solid rgb(79, 78, 78);
+}
+#foto3{
+    width: 18em;
+    height: 200px; 
+    background-image: url("../images/ram3.jfif"); 
+    position: relative;
+    top: 4em;
+    border: 5px solid rgb(79, 78, 78);
+}
+#foto4{
+    width: 18em;
+    height: 200px; 
+    background-image: url("../images/ram4.jfif"); 
+    position: relative;
+    top: 6em;
+    border: 5px solid rgb(79, 78, 78);
+}
+#foto5{
+    width: 18em;
+    height: 200px; 
+    background-image: url("../images/ram5.jfif"); 
+    position: relative;
+    top: -52.5em;
+    left: 18.5em;
+    border: 5px solid rgb(79, 78, 78);
+}
+#foto6{
+    width: 18em;
+    height: 200px; 
+    background-image: url("../images/ram6.jfif"); 
+    position: relative;
+    top: -50.5em;
+    left: 18.5em;
+    border: 5px solid rgb(79, 78, 78);
+}
+#foto7{
+    width: 18em;
+    height: 200px; 
+    background-image: url("../images/ram7.jfif"); 
+    position: relative;
+    top: -48.5em;
+    left: 18.5em;
+    border: 5px solid rgb(79, 78, 78);
+}
+#foto8{
+    width: 18em;
+    height: 200px; 
+    background-image: url("../images/ram8.jfif"); 
+    position: relative;
+    top: -46.5em;
+    left: 18.5em;
+    border: 5px solid rgb(79, 78, 78);
+}
+#foto9{
+    width: 18em;
+    height: 200px; 
+    background-image: url("../images/ram9.jfif"); 
+    position: relative;
+    top: -105em;
+    left: 37em;
+    border: 5px solid rgb(79, 78, 78);
+}
+#foto10{
+    width: 18em;
+    height: 200px; 
+    background-image: url("../images/ram10.jfif"); 
+    position: relative;
+    top: -103em;
+    left: 37em;
+    border: 5px solid rgb(79, 78, 78);
+}
+#foto11{
+    width: 18em;
+    height: 200px; 
+    background-image: url("../images/ram11.jfif"); 
+    position: relative;
+    top: -101em;
+    left: 37em;
+    border: 5px solid rgb(79, 78, 78);
+}
+#foto12{
+    width: 18em;
+    height: 200px; 
+    background-image: url("../images/ram12.jfif"); 
+    position: relative;
+    top: -99em;
+    left: 37em;
+    border: 5px solid rgb(79, 78, 78);
+}
+#adicional{
+    width: 70em;
+    height: 45px;
+    background-color: white;
+    position: relative;
+    top: -99em;
+    text-align: center;
+    color: black;
+}
+#contmenu{
+    width: 17em;
+    position: absolute;
+    top: -1em;
+    left: 53em;
+}
+ul,ol{
+    list-style: none;
+    text-align: center;
+}
+.nav li a{
+    background-color: rgb(109, 109, 109);
+    color: white;
+    text-decoration: none;
+    padding: 30px 1px;
+    padding-left: 45px;
+    display: block;
+}
+.nav li a:hover{
+    background: black;
+}
+
+    
